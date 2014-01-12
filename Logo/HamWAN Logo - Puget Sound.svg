@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="1024px"
+	 height="768px" viewBox="0 0 1024 768" enable-background="new 0 0 1024 768" xml:space="preserve">
+<g id="Layer_3" display="none">
+	<radialGradient id="SVGID_1_" cx="512" cy="384" r="452.5483" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="0.1753" style="stop-color:#EEEEEE"/>
+		<stop  offset="0.439" style="stop-color:#DBDBDB"/>
+		<stop  offset="0.7106" style="stop-color:#D0D0D0"/>
+		<stop  offset="1" style="stop-color:#CCCCCC"/>
+	</radialGradient>
+	<rect display="inline" fill="url(#SVGID_1_)" width="1024" height="768"/>
+</g>
+<g id="Layer_1" display="none">
+	<rect y="568" display="inline" fill="#6495FF" width="288" height="150"/>
+	<rect y="718" display="inline" fill="#FF8457" width="144" height="50"/>
+	<rect x="144" y="718" display="inline" fill="#FFD957" width="144" height="50"/>
+	<rect y="568" display="inline" fill="#324B80" width="288" height="50"/>
+</g>
+<g id="Layer_2">
+	<text transform="matrix(1 0 0 1 296.8145 391.1436)"><tspan x="0" y="0" fill="#324B80" font-family="'Roboto-Black'" font-size="100">HamWAN </tspan><tspan x="0" y="60" fill="#324B80" font-family="'Roboto-Thin'" font-size="60" letter-spacing="2">PUGET SOUND</tspan></text>
+	<circle fill="#FF8457" cx="624.625" cy="308.125" r="6.489"/>
+	<g id="Layer_4">
+	</g>
+	<rect id="_x3C_Slice_x3E_" x="297" y="265" fill="none" width="430" height="189"/>
+</g>
+<g id="Layer_6">
+	<path fill="none" stroke="#FF8457" stroke-width="2" stroke-miterlimit="10" d="M588.136,308.125
+		c0-20.12,16.369-36.489,36.489-36.489s36.489,16.369,36.489,36.489"/>
+	<path fill="none" stroke="#FF8457" stroke-width="2" stroke-miterlimit="10" d="M598.136,308.125
+		c0-14.606,11.883-26.489,26.489-26.489s26.489,11.883,26.489,26.489"/>
+	<path fill="none" stroke="#FF8457" stroke-width="2" stroke-miterlimit="10" d="M608.136,308.125
+		c0-9.092,7.397-16.489,16.489-16.489s16.489,7.397,16.489,16.489"/>
+</g>
+<g id="Layer_7" display="none">
+	
+		<text transform="matrix(1 0 0 1 814.0742 761.4961)" display="inline" fill="#B3B3B3" font-family="'Roboto-Thin'" font-size="24" letter-spacing="1">Draft 1a by K0RET</text>
+</g>
+</svg>
